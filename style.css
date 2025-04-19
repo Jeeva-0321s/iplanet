@@ -1,0 +1,95 @@
+
+h2{
+    padding: 10px;
+    padding-left: 150px;
+    padding-top: 100px;
+}
+.on{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 2em;
+    color: white;
+    padding-top: 90px;
+}
+.one{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 3em;
+    color: whitesmoke;
+    padding-top: 1px;
+    margin-top: 1px;
+    text-decoration-color: rgb(30, 53, 53);
+    text-shadow: 0 0 5px #fff,
+                0 0 10px #fff,
+                0 0 20px rgb(0, 55, 128),
+                0 0 30px green,
+                0 0 40px rgb(0, 119, 128),
+                0 0 55px rgb(44, 21, 18),
+                0 0 70px rgb(21, 68, 21);
+}
+.img{
+    display: inline-block;
+    border-width: 2px;
+}
+button:hover{
+    opacity: 0.8;
+    color: cyan;
+}
+.topnav{
+    display: inline-block;
+    padding-left: 60px;
+    text-decoration: none;
+}
+.topnav:hover{
+    text-decoration: underline;
+}
+.down{
+    display: inline-block;
+    
+    border-width: 5px;
+    border: 5px solid whitesmoke;
+    margin-left: 10px;
+    border-radius: 30px;
+    width: 300px;
+
+}
+.down:hover{
+        background-color: rgb(226, 228, 228);
+    transition:0.3s;
+}
+
+.up{
+display: inline-block;
+border:  whitesmoke;
+margin-left: 20px;
+border-radius: 30px;
+width: 300px;
+}
+
+.up:hover{
+    background-color: rgb(238, 238, 238);
+    transition:0.3s;
+}
+.above{
+    display: inline-block;
+    border: lightgray 2px;
+    
+    height: auto;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   
+}
+
+.side{
+    border: whitesmoke;
+}
+
+.view{
+    display: inline-block;
+    padding-left: 50px;
+    padding-right: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.view:hover{
+    background-color: rgb(250, 249, 249);
+    transition: 0.3s;
+    border: 1px solid whitesmoke;
+}
